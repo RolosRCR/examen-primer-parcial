@@ -1,2 +1,5 @@
-package uaslp.enginering.exam.model;public enum Condition {
+package uaslp.enginering.exam.model;
+
+public enum RoomStatus {
+    CLEAN,DIRTY;
 }
