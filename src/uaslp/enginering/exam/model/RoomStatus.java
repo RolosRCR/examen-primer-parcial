@@ -1,4 +1,2 @@
-package uaslp.enginering.exam.model;
-
-public enum RoomStatus {
+package uaslp.enginering.exam.model;public enum Condition {
 }
